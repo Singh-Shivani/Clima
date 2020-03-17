@@ -1,0 +1,4 @@
+#Tue Mar 17 16:53:48 IST 2020
+base.0=/home/shivani/AndroidStudioProjects/Clima-S/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
