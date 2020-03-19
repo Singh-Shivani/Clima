@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:clima/services/location.dart';
+import 'package:http/http.dart';
 
 class LoadingScreen extends StatefulWidget {
   @override
@@ -11,6 +12,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
   void initState() {
     super.initState();
     getLocation();
+    print('this line of code is triggered');
   }
 
   void getLocation() async {
@@ -19,6 +21,10 @@ class _LoadingScreenState extends State<LoadingScreen> {
     print(location.lat);
     print(location.long);
   }
+//
+//  void getData()  async {
+//    Response response = await get()
+//  }
 
   @override
   Widget build(BuildContext context) {
