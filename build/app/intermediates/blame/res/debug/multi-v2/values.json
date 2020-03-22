@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shivani/AndroidStudioProjects/Clima-S/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/shivani/AndroidStudioProjects/Clima-Flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/shivani/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/res/values/values.xml",
@@ -59,25 +59,6 @@
                     }
                 },
                 {
-                    "source": "/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "347"
-                    },
-                    "to": {
-                        "startLines": "106",
-                        "startColumns": "4",
-                        "startOffsets": "7862",
-                        "endLines": "110",
-                        "endColumns": "12",
-                        "endOffsets": "8154"
-                    }
-                },
-                {
                     "source": "/home/shivani/.gradle/caches/transforms-2/files-2.1/60b8cdada680474c86c3f823c8ae649a/coordinatorlayout-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
@@ -94,6 +75,25 @@
                         "endLines": "2,126,143,232",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "161,9196,10102,15313"
+                    }
+                },
+                {
+                    "source": "/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "106",
+                        "startColumns": "4",
+                        "startOffsets": "7862",
+                        "endLines": "110",
+                        "endColumns": "12",
+                        "endOffsets": "8154"
                     }
                 }
             ]

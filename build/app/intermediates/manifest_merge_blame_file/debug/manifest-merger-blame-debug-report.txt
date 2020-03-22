@@ -12,14 +12,14 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-15-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:4:5-81
-15-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:4:22-78
+15-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:4:5-81
+15-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:4:22-78
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->[:geolocator] /home/shivani/AndroidStudioProjects/Clima-S/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
-16-->[:geolocator] /home/shivani/AndroidStudioProjects/Clima-S/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+16-->[:geolocator] /home/shivani/AndroidStudioProjects/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+16-->[:geolocator] /home/shivani/AndroidStudioProjects/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
 17    <!--
 18 io.flutter.app.FlutterApplication is an android.app.Application that
 19         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -28,30 +28,30 @@
 22         FlutterApplication and put your custom class here.
 23    -->
 24    <application
-24-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:11:5-34:19
+24-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:11:5-34:19
 25        android:name="io.flutter.app.FlutterApplication"
-25-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:12:9-57
+25-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:12:9-57
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 26-->[androidx.core:core:1.1.0] /home/shivani/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:24:18-86
 27        android:debuggable="true"
 28        android:icon="@mipmap/ic_launcher"
-28-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:14:9-43
+28-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:14:9-43
 29        android:label="clima" >
-29-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:13:9-30
+29-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:13:9-30
 30        <activity
-30-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:15:9-33:20
+30-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:15:9-33:20
 31            android:name="co.appbrewery.clima.MainActivity"
-31-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:16:13-41
+31-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:16:13-41
 32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-32-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:19:13-144
+32-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:19:13-144
 33            android:hardwareAccelerated="true"
-33-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:20:13-47
+33-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:20:13-47
 34            android:launchMode="singleTop"
-34-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:17:13-43
+34-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:17:13-43
 35            android:theme="@style/LaunchTheme"
-35-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:18:13-47
+35-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:18:13-47
 36            android:windowSoftInputMode="adjustResize" >
-36-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:21:13-55
+36-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:21:13-55
 37
 38            <!--
 39                 This keeps the window background of the activity showing
@@ -60,21 +60,21 @@
 42                 defined in @style/LaunchTheme).
 43            -->
 44            <meta-data
-44-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:26:13-28:40
+44-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:26:13-28:40
 45                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
-45-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:27:17-82
+45-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:27:17-82
 46                android:value="true" />
-46-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:28:17-37
+46-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:28:17-37
 47
 48            <intent-filter>
-48-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:29:13-32:29
+48-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:29:13-32:29
 49                <action android:name="android.intent.action.MAIN" />
-49-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:30:17-68
-49-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:30:25-66
+49-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:30:17-68
+49-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:30:25-66
 50
 51                <category android:name="android.intent.category.LAUNCHER" />
-51-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:31:17-76
-51-->/home/shivani/AndroidStudioProjects/Clima-S/android/app/src/main/AndroidManifest.xml:31:27-74
+51-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:31:17-76
+51-->/home/shivani/AndroidStudioProjects/Clima-Flutter/android/app/src/main/AndroidManifest.xml:31:27-74
 52            </intent-filter>
 53        </activity>
 54        <activity

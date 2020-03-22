@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shivani/AndroidStudioProjects/Clima-S/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "outputFile": "/home/shivani/AndroidStudioProjects/Clima-Flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "/home/shivani/.gradle/caches/transforms-2/files-2.1/503246db64dcbb120c121745b36c75fd/play-services-base-17.0.0/res/values-lo/values.xml",

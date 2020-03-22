@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shivani/AndroidStudioProjects/Clima-S/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+            "outputFile": "/home/shivani/AndroidStudioProjects/Clima-Flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
             "map": [
                 {
                     "source": "/home/shivani/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/res/values-uk/values-uk.xml",
