@@ -1,4 +1,5 @@
 # Clima🌥️
+The Weather App.
 Power of Flutter with Live Weather Web Data.⚡
 
 Clima is a weather app inspired by the beautiful designs made by Olia Gozha. 
